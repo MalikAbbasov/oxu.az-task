@@ -1,0 +1,60 @@
+.card{
+    position: relative;
+    width: 500px;
+    height: 400px;
+    background-color: rgb(48, 210, 231);
+    margin: 20px auto;
+
+}
+.card:hover{
+    cursor: pointer;
+}
+.sekil{
+    position: absolute;
+    width: 500px;
+    height: 400px;
+    
+}
+.sekil img{
+    position: absolute;
+    width: 500px;
+    height: 400px;
+}
+.icon{
+    position: absolute;
+    color: white;
+    font-size: 80px;
+    
+
+}
+.icon1{
+    position: absolute;
+    top: 145px;
+    left: 15px;
+}
+.icon2{
+    position: absolute;
+    top: 145px;
+    left: 425px;
+}
+.date{
+    position: absolute;
+    width: 200px;
+    height: 30px;
+    border: 100px;
+    background-color: rgb(13, 179, 7);
+    font-size: 20px;
+    bottom: 50px;
+      
+}
+.yer{
+    margin-left: 30px;
+}
+.text{
+    position: absolute;
+    width: 500px;
+    height: 50px;
+    background-color: rgb(77, 76, 76);
+    color: white;
+    bottom: 0px;
+}
